@@ -5,3 +5,8 @@ form {
 body {
     background-color: grey;
 }
+
+div {
+    width: 200px;
+    height: 200px;
+}
