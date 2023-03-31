@@ -1,3 +1,14 @@
 input {
     font-style: Arial;
 }
+
+button {
+    width:200px;
+    border-radius:5px;
+}
+
+
+form {
+    color:red
+}
+
